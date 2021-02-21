@@ -1,18 +1,18 @@
- film_id |      title       | language_id |         name         
+ film_id |      title       | language_id |         name
 ---------+------------------+-------------+----------------------
-     493 | KANE EXORCIST    |           1 | English             
-     494 | KARATE MOON      |           1 | English             
-     495 | KENTUCKIAN GIANT |           1 | English             
-     496 | KICK SAVANNAH    |           1 | English             
-     497 | KILL BROTHERHOOD |           1 | English             
-     498 | KILLER INNOCENT  |           1 | English             
-     499 | KING EVOLUTION   |           1 | English             
-     500 | KISS GLORY       |           1 | English             
-     501 | KISSING DOLLS    |           1 | English             
-     502 | KNOCK WARLOCK    |           1 | English             
-     503 | KRAMER CHOCOLATE |           1 | English             
-     504 | KWAI HOMEWARD    |           1 | English             
-     706 | QUEEN LUKE       |           1 | English             
-     707 | QUEST MUSSOLINI  |           1 | English             
-     708 | QUILLS BULL      |           1 | English             
+     493 | KANE EXORCIST    |           1 | English
+     494 | KARATE MOON      |           1 | English
+     495 | KENTUCKIAN GIANT |           1 | English
+     496 | KICK SAVANNAH    |           1 | English
+     497 | KILL BROTHERHOOD |           1 | English
+     498 | KILLER INNOCENT  |           1 | English
+     499 | KING EVOLUTION   |           1 | English
+     500 | KISS GLORY       |           1 | English
+     501 | KISSING DOLLS    |           1 | English
+     502 | KNOCK WARLOCK    |           1 | English
+     503 | KRAMER CHOCOLATE |           1 | English
+     504 | KWAI HOMEWARD    |           1 | English
+     706 | QUEEN LUKE       |           1 | English
+     707 | QUEST MUSSOLINI  |           1 | English
+     708 | QUILLS BULL      |           1 | English
 (15 rows)

@@ -1,5 +1,5 @@
 # pagila-hw
-[![](https://github.com/mikeizbicki/pagila-hw/workflows/tests/badge.svg)](https://github.com/mikeizbicki/pagila-hw/actions?query=workflow%3Atests)
+[![](https://github.com/curtissalinger/pagila-hw/workflows/tests/badge.svg)](https://github.com/curtissalinger/pagila-hw/actions?query=workflow%3Atests)
 
 ## Background
 
@@ -8,6 +8,7 @@ The database implements a simple movie rental system like the company Blockbuste
 The following picture illustrates the database's structure:
 
 <img src=dvd-rental-sample-database-diagram.png width=80% />
+
 
 ## Tasks
 
