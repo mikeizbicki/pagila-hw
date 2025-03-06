@@ -35,8 +35,8 @@ The following picture illustrates the database's structure:
         ```
     2. You can bring up the docker container and connect with psql and you have a non-empty schema:
         ```
-        $ docker-compose up -d --build
-        $ docker-compose exec pg psql
+        $ docker compose up -d --build
+        $ docker compose exec pg psql
         postgres=# \d
         Schema |            Name            |       Type        |  Owner
         --------+----------------------------+-------------------+----------
@@ -60,7 +60,7 @@ The following picture illustrates the database's structure:
     1. The script `run_tests.sh` will perform these checks for you automatically using the `diff` command.
        It must be run from within the database container with the following command
        ```
-       $ docker-compose exec pg ./run_tests.sh
+       $ docker compose exec pg ./run_tests.sh
        ```
 1. Upload a link to your forked github repo on sakai.
 
