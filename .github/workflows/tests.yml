@@ -14,10 +14,9 @@ jobs:
         # load the pagila data
         git submodule init
         git submodule update
-        git checkout master
 
         # run the database in docker container
-        docker-compose up -d --build
+        docker compose up -d --build
 
         # verify that it is running successfully
         # this is an idempotent command useful for debugging
@@ -32,7 +31,7 @@ jobs:
         sleep 20
 
         # run the tests
-        docker-compose exec -T pg ./fixme.sh
+        docker compose exec -T pg ./run_tests.sh
 
         # FIXME:
         # the docker-compose command above will generate an error when the github action is run
